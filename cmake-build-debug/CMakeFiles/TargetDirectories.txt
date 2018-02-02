@@ -1,0 +1,5 @@
+/Volumes/data/OpenCvProjects/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Volumes/data/OpenCvProjects/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Volumes/data/OpenCvProjects/cmake-build-debug/Transparent_API/CMakeFiles/rebuild_cache.dir
+/Volumes/data/OpenCvProjects/cmake-build-debug/Transparent_API/CMakeFiles/edit_cache.dir
+/Volumes/data/OpenCvProjects/cmake-build-debug/Transparent_API/CMakeFiles/TAPI.dir
